@@ -1,0 +1,9 @@
+<root>
+  <Monster type="1" name="艾格" modelPath="Prefabs/Character/Aige" HP="1000" MP="1000" attact="150" defense="50" attackRadius="15" exp="100" money="100" />
+  <Monster type="2" name="黑魔女" modelPath="Prefabs/Character/Heimolv" HP="1000" MP="1000" attact="150" defense="50" attackRadius="15" exp="100" money="100" />
+  <Monster type="3" name="蓝精灵" modelPath="Prefabs/Character/Jinglingnan" HP="1000" MP="1000" attact="150" defense="50" attackRadius="8" exp="100" money="100" />
+  <Monster type="30" name="猿人" modelPath="Prefabs/Character/Yuanren" HP="1000" MP="1000" attact="150" defense="20" attackRadius="8" exp="50" money="100" />
+  <Monster type="40" name="巨人" modelPath="Prefabs/Character/Juren" HP="2000" MP="1000" attact="100" defense="20" attackRadius="8" exp="500" money="100" />
+  <Monster type="50" name="蜘蛛" modelPath="Prefabs/Character/Zhizhu" HP="1000" MP="1000" attact="100" defense="20" attackRadius="15" exp="50" money="100" />
+  <Monster type="60" name="箭塔" modelPath="" HP="1000" MP="100" attact="150" defense="30" attackRadius="16" exp="200" money="100" />
+</root>

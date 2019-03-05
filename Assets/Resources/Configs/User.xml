@@ -1,0 +1,6 @@
+<root>
+  <user userName="123" password="123" >
+  <player PlayerID="123+1" UserID="123" ServerNum="1" Name="无敌" Sex="1" HeadImageId="1" />
+  <player PlayerID="123+2" UserID="123" ServerNum="2" Name="小白" Sex="2" HeadImageId="3" />
+  </user>
+</root>

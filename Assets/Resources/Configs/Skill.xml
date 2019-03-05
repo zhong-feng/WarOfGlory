@@ -1,0 +1,8 @@
+<root>
+  <Skill id="1" name="腐蚀之光" iconPath="SkillIcons/hp_10" skillCD="2" use="50" propRation="1.5" radiusRatio="0" describe="" />
+  <Skill id="2" name="黑暗风暴" iconPath="SkillIcons/hp_10" skillCD="2" use="50" propRation="1.5" radiusRatio="5" describe="" />
+  <Skill id="11" name="烈焰之舞" iconPath="SkillIcons/hp_10" skillCD="2" use="50" propRation="1.5" radiusRatio="0" describe="" />
+  <Skill id="12" name="地狱之炎" iconPath="SkillIcons/hp_10" skillCD="2" use="50" propRation="1.5" radiusRatio="0" describe="" />
+  <Skill id="21" name="重击" iconPath="SkillIcons/hp_10" skillCD="3" use="100" propRation="2" radiusRatio="0" describe="" />
+  <Skill id="22" name="裂地斩" iconPath="SkillIcons/hp_10" skillCD="5" use="150" propRation="5" radiusRatio="2.2" describe="" />
+</root>

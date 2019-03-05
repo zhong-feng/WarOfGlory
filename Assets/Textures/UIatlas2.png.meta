@@ -1,0 +1,1098 @@
+fileFormatVersion: 2
+guid: 537c20cd8eff2f241b5ec3efbb8ac0d6
+timeCreated: 1539841738
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UIatlas2_0
+    21300002: UIatlas2_1
+    21300004: UIatlas2_2
+    21300006: UIatlas2_3
+    21300008: UIatlas2_4
+    21300010: UIatlas2_5
+    21300012: UIatlas2_6
+    21300014: UIatlas2_7
+    21300016: UIatlas2_8
+    21300018: UIatlas2_9
+    21300020: UIatlas2_10
+    21300022: UIatlas2_11
+    21300024: UIatlas2_12
+    21300026: UIatlas2_13
+    21300028: UIatlas2_14
+    21300030: UIatlas2_15
+    21300032: UIatlas2_16
+    21300034: UIatlas2_17
+    21300036: UIatlas2_18
+    21300038: UIatlas2_19
+    21300040: UIatlas2_20
+    21300042: UIatlas2_21
+    21300044: UIatlas2_22
+    21300046: UIatlas2_23
+    21300048: UIatlas2_24
+    21300050: UIatlas2_25
+    21300052: UIatlas2_26
+    21300054: UIatlas2_27
+    21300056: UIatlas2_28
+    21300058: UIatlas2_29
+    21300060: UIatlas2_30
+    21300062: UIatlas2_31
+    21300064: UIatlas2_32
+    21300066: UIatlas2_33
+    21300068: UIatlas2_34
+    21300070: UIatlas2_35
+    21300072: UIatlas2_36
+    21300074: UIatlas2_37
+    21300076: UIatlas2_38
+    21300078: UIatlas2_39
+    21300080: UIatlas2_40
+    21300082: UIatlas2_41
+    21300084: UIatlas2_42
+    21300086: UIatlas2_43
+    21300088: UIatlas2_44
+    21300090: UIatlas2_45
+    21300092: UIatlas2_46
+    21300094: UIatlas2_47
+    21300096: UIatlas2_48
+    21300098: UIatlas2_49
+    21300100: UIatlas2_50
+    21300102: UIatlas2_51
+    21300104: UIatlas2_52
+    21300106: UIatlas2_53
+    21300108: UIatlas2_54
+    21300110: UIatlas2_55
+    21300112: UIatlas2_56
+    21300114: UIatlas2_57
+    21300116: UIatlas2_58
+    21300118: UIatlas2_59
+    21300120: UIatlas2_60
+    21300122: UIatlas2_61
+    21300124: UIatlas2_62
+    21300126: UIatlas2_63
+    21300128: UIatlas2_64
+    21300130: UIatlas2_65
+    21300132: UIatlas2_66
+    21300134: UIatlas2_67
+    21300136: UIatlas2_68
+    21300138: UIatlas2_69
+    21300140: UIatlas2_70
+    21300142: UIatlas2_71
+    21300144: UIatlas2_72
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UIatlas2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 914
+        width: 1024
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 12
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 275
+        width: 12
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 872
+        width: 101
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 885
+        width: 136
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 884
+        width: 711
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 828
+        width: 101
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 856
+        width: 136
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 856
+        width: 686
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_9
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 844
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 342
+        width: 4
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 772
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 791
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 770
+        width: 141
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 771
+        width: 299
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_15
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 767
+        width: 414
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 773
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 712
+        width: 180
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 715
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 675
+        width: 292
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_20
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 699
+        width: 390
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_21
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 704
+        width: 14
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 654
+        width: 176
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_23
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 668
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_24
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 632
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_25
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 656
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_26
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 631
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_27
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 653
+        width: 608
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 624
+        width: 173
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_29
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 632
+        width: 608
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_30
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 583
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 582
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 596
+        width: 136
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_33
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 573
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_34
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 506
+        width: 605
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_35
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 568
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 508
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_37
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 508
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_38
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 508
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_39
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 508
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_40
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 527
+        width: 101
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_41
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 343
+        width: 148
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_42
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 480
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_43
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 480
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_44
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 442
+        width: 213
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_45
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 445
+        width: 152
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_46
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 452
+        width: 164
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 352
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_48
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 352
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_49
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 378
+        width: 213
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_50
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 384
+        width: 152
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_51
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 276
+        width: 204
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_52
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 276
+        width: 130
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_53
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 276
+        width: 130
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_54
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 314
+        width: 213
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_55
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 327
+        width: 199
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 146
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_57
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 108
+        width: 146
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_58
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 155
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_59
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 193
+        width: 584
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_60
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 159
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_61
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 164
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_62
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 108
+        width: 212
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_63
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 108
+        width: 209
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_64
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 141
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_65
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 112
+        width: 202
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 293
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_67
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 12
+        width: 292
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_68
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 22
+        width: 142
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_69
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 35
+        width: 130
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_70
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_71
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 7
+        width: 136
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIatlas2_72
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 295
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

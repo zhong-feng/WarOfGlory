@@ -1,0 +1,10 @@
+<root>
+  <sever SeverID="0" SeverName="武汉一区" />
+  <sever SeverID="1" SeverName="武汉二区" />
+  <sever SeverID="2" SeverName="武汉三区" />
+  <sever SeverID="3" SeverName="武汉四区" />
+  <sever SeverID="4" SeverName="武汉五区" />
+  <sever SeverID="5" SeverName="武汉六区" />
+  <sever SeverID="6" SeverName="武汉七区" />
+  <sever SeverID="7" SeverName="武汉八区" />
+</root>

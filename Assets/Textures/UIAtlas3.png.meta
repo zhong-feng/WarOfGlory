@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: 70868899d949f154195f68645644e5c0
+timeCreated: 1540513596
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UIAtlas3_0
+    21300002: UIAtlas3_1
+    21300004: UIAtlas3_2
+    21300006: UIAtlas3_3
+    21300008: UIAtlas3_4
+    21300010: UIAtlas3_5
+    21300012: UIAtlas3_6
+    21300014: UIAtlas3_7
+    21300016: UIAtlas3_8
+    21300018: UIAtlas3_9
+    21300020: UIAtlas3_10
+    21300022: UIAtlas3_11
+    21300024: UIAtlas3_12
+    21300026: UIAtlas3_13
+    21300028: UIAtlas3_14
+    21300030: UIAtlas3_15
+    21300032: UIAtlas3_16
+    21300034: UIAtlas3_17
+    21300036: UIAtlas3_18
+    21300038: UIAtlas3_19
+    21300040: UIAtlas3_20
+    21300042: UIAtlas3_21
+    21300044: UIAtlas3_22
+    21300046: UIAtlas3_23
+    21300048: UIAtlas3_24
+    21300050: UIAtlas3_25
+    21300052: UIAtlas3_26
+    21300054: UIAtlas3_27
+    21300056: UIAtlas3_28
+    21300058: UIAtlas3_29
+    21300060: UIAtlas3_30
+    21300062: UIAtlas3_31
+    21300064: UIAtlas3_32
+    21300066: UIAtlas3_33
+    21300068: UIAtlas3_34
+    21300070: UIAtlas3_35
+    21300072: UIAtlas3_36
+    21300074: UIAtlas3_37
+    21300076: UIAtlas3_38
+    21300078: UIAtlas3_39
+    21300080: UIAtlas3_40
+    21300082: UIAtlas3_41
+    21300084: UIAtlas3_42
+    21300086: UIAtlas3_43
+    21300088: UIAtlas3_44
+    21300090: UIAtlas3_45
+    21300092: UIAtlas3_46
+    21300094: UIAtlas3_47
+    21300096: UIAtlas3_48
+    21300098: UIAtlas3_49
+    21300100: UIAtlas3_50
+    21300102: UIAtlas3_51
+    21300104: UIAtlas3_52
+    21300106: UIAtlas3_53
+    21300108: UIAtlas3_54
+    21300110: UIAtlas3_55
+    21300112: UIAtlas3_56
+    21300114: UIAtlas3_57
+    21300116: UIAtlas3_58
+    21300118: UIAtlas3_59
+    21300120: UIAtlas3_60
+    21300122: UIAtlas3_61
+    21300124: UIAtlas3_62
+    21300126: UIAtlas3_63
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UIAtlas3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 659
+        width: 394
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 734
+        width: 460
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_2
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 888
+        width: 149
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_3
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 775
+        width: 151
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 492
+        width: 461
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_5
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 660
+        width: 153
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 296
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 562
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_8
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 540
+        width: 113
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_9
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 614
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_10
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 570
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 478
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_12
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 536
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_13
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 430
+        width: 96
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_14
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 526
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_15
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 484
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 394
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 285
+        width: 213
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_18
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 458
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_19
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 399
+        width: 141
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_20
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 455
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_21
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 452
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_22
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 397
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_23
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 423
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_24
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 416
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_25
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 412
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_26
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 384
+        width: 89
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 311
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_28
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 388
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_29
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 326
+        width: 134
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_30
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 384
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 212
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 277
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_33
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 328
+        width: 241
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_34
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 228
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_35
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 286
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_36
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 300
+        width: 362
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_37
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 276
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_38
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 277
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_39
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 240
+        width: 213
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_40
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 223
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 209
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_42
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 201
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_43
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 228
+        width: 281
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_44
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 212
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 201
+        width: 540
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_46
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 176
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_47
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 167
+        width: 89
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 209
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_49
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 129
+        width: 210
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_50
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 144
+        width: 240
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_51
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 138
+        width: 150
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_52
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 124
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_53
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 138
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_54
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 127
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_55
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 134
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 619
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_57
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 75
+        width: 150
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_58
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 79
+        width: 153
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 213
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_60
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 14
+        width: 152
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 3, z: 4, w: 3}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_61
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 22
+        width: 153
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_62
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 15
+        width: 213
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIAtlas3_63
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 16
+        width: 150
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
